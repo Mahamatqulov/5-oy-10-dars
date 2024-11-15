@@ -1,4 +1,7 @@
 {
+  "name": "5-oy-10-dars",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
   "devDependencies": {
     "daisyui": "^4.12.14",
     "prettier": "^3.3.3",
@@ -9,7 +12,10 @@
     "toastify-js": "^1.12.0"
   },
   "scripts": {
-    "build": "tailwindcss -i ./src/input.css -o ./src/output.css",
     "watch": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
